@@ -116,7 +116,7 @@ class _HomeContent extends StatelessWidget {
             ),
             SizedBox(height: 20),
             InkWell(
-              onTap: () => _launchURL(context, 'https://github.com/luisadrianPOZOGOMEZ/MFA-security.git'),
+              onTap: () => _launchURL(context, 'https://github.com/luisadrianPOZOGOMEZ/SensorsPhone.git'),
               child: Row(
                 mainAxisSize: MainAxisSize.min,
                 children: [
